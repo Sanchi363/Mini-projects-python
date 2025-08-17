@@ -1,7 +1,6 @@
 # Python Mini Projects
 
-Welcome to my collection of Python mini projects! This repository showcases a variety of small, practical programs that demonstrate core Python concepts, problem-solving skills, and creativity. Each script is self-contained and beginner-friendly, making it a great resource for learners and hobbyists alike.
-
+Welcome to my collection of Python mini projects! This repository contains a variety of small, practical programs.
 ##  Project List
 
 | File Name                                            |
